@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void VolleyCheck() {
 
-        String url = "http://typing.darshilsoftware.in/api/v1/product/test/list?type=LIVE";
+        String url= "http://yoururl.com";
 
         final ProgressDialog progressDialog = new ProgressDialog(this);
         progressDialog.setMessage("Loading...");
